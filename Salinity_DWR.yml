@@ -1,0 +1,19 @@
+name: Salinity_DWR
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - matplotlib
+  - pandas
+  - holoviews
+  - hvplot
+  - panel
+#  - ipykernel  
+  - pillow == 9.0.1
+  - pip:
+    - keras-tuner
+    - scikit-learn
+    - tensorflow
+    - openpyxl==3.0.7
+    
