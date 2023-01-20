@@ -15,7 +15,8 @@ Original file is located at
 ############## Hyper-param definitions #############
 ####################################################
 
-local_root_path = '/Users/siyuqi/Downloads/DWR_Workshop'
+#local_root_path = '/Users/siyuqi/Downloads/DWR_Workshop'
+local_root_path = '.'
 
 ''' 
 Select NN architecture from:
