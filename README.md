@@ -1,7 +1,7 @@
 # SalinityMLWorkshop_DMS_UCD
 This repository contains DSM2 Machine Learning scripts and data
 
-Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code using input files from this folder.
+Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code using input files from this folder.\\
 Local_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code using input files from this folder.
 Salinity_DWR.yml: A YAML file used when creating a conda environment to run the jupyter notebooks locally. 
 annutils.py: A python module containing ANN code which is used by all ANN scripts and notebooks.
