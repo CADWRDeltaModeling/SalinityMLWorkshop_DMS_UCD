@@ -1,5 +1,5 @@
 # SalinityMLWorkshop_DMS_UCD
-This repository contains DSM2 Machine Learning scripts and data for the workshop
+This repository contains Machine Learning scripts and data for the workshop
 
 Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code using input files from this folder.<BR>
 Local_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code using input files from this folder.<BR>
