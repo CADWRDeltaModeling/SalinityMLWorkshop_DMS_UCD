@@ -1,8 +1,8 @@
 # SalinityMLWorkshop_DMS_UCD
 This repository contains Machine Learning scripts and data for the workshop
 
-docs/PreWorkshopSetup_Colab.pptx: Power Point document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
-docs/PreWorkshopSetup_Local.pptx: Point Point document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR> 
+docs/PreWorkshopSetup_Colab.pdf: PDF document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
+docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR> 
 Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code using input files from this folder.<BR>
 Local_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code to train the ANN on augmented observed data using input files from this folder.<BR>
 Local_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code to train the ANN on observed data using input files from this folder. <BR>
