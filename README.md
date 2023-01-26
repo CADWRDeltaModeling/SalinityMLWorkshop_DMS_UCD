@@ -1,7 +1,7 @@
 # SalinityMLWorkshop_DMS_UCD
 This repository contains Machine Learning scripts, data, and documents for the workshop.
 
-doct/Agenda_AdditionalInfo.pdf: Workshop agenda, directions, and parking information
+docs/Agenda_AdditionalInfo.pdf: Workshop agenda, directions, and parking information
 docs/PreWorkshopSetup_Colab.pdf: PDF document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
 docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR>
 docs/water-14-02030-Multi_Location_Emulation.pdf: MDPI Water article: Multi-Location Emulation of a Process-Based Salinity Model Using Machine Learning <BR>
