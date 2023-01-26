@@ -3,12 +3,12 @@ This repository contains Machine Learning scripts, data, and documents for the w
 
 docs/PreWorkshopSetup_Colab.pdf: PDF document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
 docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR> 
-Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code to train the ANN on augmented observed data using input files from this folder.<BR>
-Colab_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code to train the ANN on observed data using input files from this folder. <BR>
-Colab_Transfer_Learning_from_Augmented_to_Observed_Chronological.ipynb: A jupyter notebook for use with Google Colab, which runs the ANN code to transfer learning to observed data using input files from this folder. <BR>
-Local_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code to train the ANN on augmented observed data using input files from this folder.<BR>
-Local_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code to train the ANN on observed data using input files from this folder. <BR>
-Local_Transfer_Learning_from_Augmented_to_Observed_Chronological.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ANN code to transfer learning to observed data using input files from this folder. <BR>
+Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to train the ANN on augmented observed data using input files from this folder.<BR>
+Colab_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to train the ANN on observed data using input files from this folder. <BR>
+Colab_Transfer_Learning_from_Augmented_to_Observed_Chronological.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to transfer learning to observed data using input files from this folder. <BR>
+Local_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ML code to train the ANN on augmented observed data using input files from this folder.<BR>
+Local_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ML code to train the ANN on observed data using input files from this folder. <BR>
+Local_Transfer_Learning_from_Augmented_to_Observed_Chronological.ipynb: A jupyter notebook for use locally on a personal computer, which runs the ML code to transfer learning to observed data using input files from this folder. <BR>
 Salinity_DWR.yml: A YAML file used when creating a conda environment to run the jupyter notebooks locally. <BR>
 annutils.py: A python module containing ANN code which is used by all ANN scripts and notebooks.<BR>
 dsm2_ann_inputs_base.xlsx: An Excel file containing historical ANN inputs. <BR>
