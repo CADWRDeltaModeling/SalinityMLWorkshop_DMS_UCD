@@ -1,8 +1,11 @@
 # SalinityMLWorkshop_DMS_UCD
 This repository contains Machine Learning scripts, data, and documents for the workshop.
 
+doct/Agenda_AdditionalInfo.pdf: Workshop agenda, directions, and parking information
 docs/PreWorkshopSetup_Colab.pdf: PDF document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
-docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR> 
+docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR>
+docs/water-14-02030-Multi_Location_Emulation.pdf: MDPI Water article: Multi-Location Emulation of a Process-Based Salinity Model Using Machine Learning <BR>
+docs/water-14-03628-Novel_Salinity_Modeling_Deep_Learning.pdf: MDPI Water article: Novel Salinity Modeling Using Deep Learning for the Sacramento-San Joaquin Delta of California
 Colab_Train_ANN_on_Augmented_Dataset.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to train the ANN on augmented observed data using input files from this folder.<BR>
 Colab_Train_ANN_on_Observed_Data-Chronological-Test_on_Augmented_Data.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to train the ANN on observed data using input files from this folder. <BR>
 Colab_Transfer_Learning_from_Augmented_to_Observed_Chronological.ipynb: A jupyter notebook for use with Google Colab, which runs the ML code to transfer learning to observed data using input files from this folder. <BR>
