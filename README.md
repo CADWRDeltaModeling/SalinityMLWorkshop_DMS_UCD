@@ -1,5 +1,5 @@
 # SalinityMLWorkshop_DMS_UCD
-This repository contains Machine Learning scripts and data for the workshop
+This repository contains Machine Learning scripts, data, and documents for the workshop.
 
 docs/PreWorkshopSetup_Colab.pdf: PDF document describing the process for setting up Google Colab to run the ANN notebooks. <BR>
 docs/PreWorkshopSetup_Local.pdf: PDF document describing the process for setting up your laptop or desktop to run the ANN notebooks locally. <BR> 
