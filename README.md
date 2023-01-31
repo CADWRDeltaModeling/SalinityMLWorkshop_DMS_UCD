@@ -1,6 +1,7 @@
 # SalinityMLWorkshop_DMS_UCD<BR>
 This repository contains Machine Learning scripts, data, and documents for the workshop.<BR><BR>
 
+docs/Acronyms.pdf: List of acronyms used in the presentations and documents<BR>
 docs/Agenda_AdditionalInfo.pdf: Workshop agenda, directions, and parking information<BR>
 docs/JWRPMpaper_CalSim3ANN_enhance_2021.pdf: ASCE paper: "Enhanced Artificial Neural Networks for Salinity Estimation and Forecasting in the Sacramento-San Joaquin Delta of California"<BR>
 doc/Module0_Welcome.pdf: Workshop slides: Welcome <BR>
